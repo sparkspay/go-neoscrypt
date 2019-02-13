@@ -3,7 +3,6 @@ package goneoscrypt
 import (
 	"bytes"
 	"testing"
-	//"github.com/sparkspay/goxneoscrypt"
 )
 
 func TestNeoScryptHash(t *testing.T) {

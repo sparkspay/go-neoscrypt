@@ -1,4 +1,4 @@
-goneoscrypt
+go-neoscrypt
 ===============
 
 NeoScrypt hashing function for Go. Useful for various cryptocurrencies.
@@ -8,7 +8,7 @@ Usage
 
 Install
 
-    go get github.com/sparkspay/goneoscrypt
+    go get github.com/sparkspay/go-neoscrypt
 
 
 See goneoscrypt_test.go for an example and godoc for additional information. 
